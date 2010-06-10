@@ -1,65 +1,65 @@
 2005-03-28  MIYAMUKO Katsuyuki
 
-	* *rabbit-menu*: xyzzy 0.2.2.234 ‚É‚ ‚í‚¹‚Äƒƒjƒ…[‚Ì€–Ú‚ğ
-	‘SŠpƒJƒi‚É‚µ‚½B
+	* *rabbit-menu*: xyzzy 0.2.2.234 ã«ã‚ã‚ã›ã¦ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã®é …ç›®ã‚’
+	å…¨è§’ã‚«ãƒŠã«ã—ãŸã€‚
 
 2004-08-29  MIYAMUKO Katsuyuki
 
-	* insert-rabbit-menu: ƒƒjƒ…[‚ğƒ[ƒJƒ‹ƒƒjƒ…[‚É‚µ‚½B
+	* insert-rabbit-menu: ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’ãƒ­ãƒ¼ã‚«ãƒ«ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«ã—ãŸã€‚
 
 2004-08-22  MIYAMUKO Katsuyuki
 
-	* rabbit-make-process: internal buffer ‚Æ‚µ‚Äì¬‚µ‚½ƒoƒbƒtƒ@‚ğ•’Ê
-	‚Ìƒoƒbƒtƒ@‚É‚·‚é•û–@‚ª‚í‚©‚ç‚È‚©‚Á‚½‚Ì‚ÅAƒGƒ‰[‚Ì‚İƒoƒbƒtƒ@‚ğ•\
-	¦‚·‚éŒ‚Í‚ ‚«‚ç‚ß‚½B
+	* rabbit-make-process: internal buffer ã¨ã—ã¦ä½œæˆã—ãŸãƒãƒƒãƒ•ã‚¡ã‚’æ™®é€š
+	ã®ãƒãƒƒãƒ•ã‚¡ã«ã™ã‚‹æ–¹æ³•ãŒã‚ã‹ã‚‰ãªã‹ã£ãŸã®ã§ã€ã‚¨ãƒ©ãƒ¼æ™‚ã®ã¿ãƒãƒƒãƒ•ã‚¡ã‚’è¡¨
+	ç¤ºã™ã‚‹ä»¶ã¯ã‚ãã‚‰ã‚ãŸã€‚
 
 2004-08-18  MIYAMUKO Katsuyuki
 
-	* rabbit-preview-begin-end: =begin ‚©‚ç =end ‚ğ‘S•”W‚ß‚ÄƒvƒŒƒrƒ…[
+	* rabbit-preview-begin-end: =begin ã‹ã‚‰ =end ã‚’å…¨éƒ¨é›†ã‚ã¦ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
 2004-08-17  MIYAMUKO Katsuyuki
 
-	* rabbit-setup-menu: {ƒtƒ@ƒCƒ‹,ƒoƒbƒtƒ@}ƒTƒCƒY‚ª 0 ‚Ìê‡Arabbit
-	‚ğÀs‚·‚éƒƒjƒ…[‚ğ disable ‚·‚é‚æ‚¤‚É‚µ‚½B
+	* rabbit-setup-menu: {ãƒ•ã‚¡ã‚¤ãƒ«,ãƒãƒƒãƒ•ã‚¡}ã‚µã‚¤ã‚ºãŒ 0 ã®å ´åˆã€rabbit
+	ã‚’å®Ÿè¡Œã™ã‚‹ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’ disable ã™ã‚‹ã‚ˆã†ã«ã—ãŸã€‚
 
-	* rabbit-make-process: make-process ‚ğÀs‚·‚é‚Æ‚«‚É :incode ‚Æ
-	:outcode ‚ğw’è‚·‚é‚æ‚¤‚É‚µ‚½
+	* rabbit-make-process: make-process ã‚’å®Ÿè¡Œã™ã‚‹ã¨ãã« :incode ã¨
+	:outcode ã‚’æŒ‡å®šã™ã‚‹ã‚ˆã†ã«ã—ãŸ
 
-	* rabbit-mark-slide: Œ»İ‚ÌƒXƒ‰ƒCƒh‚ğƒ}[ƒN
+	* rabbit-mark-slide: ç¾åœ¨ã®ã‚¹ãƒ©ã‚¤ãƒ‰ã‚’ãƒãƒ¼ã‚¯
 
-	* rabbit-preview-*: ”ÍˆÍ (Œ»İ‚ÌƒXƒ‰ƒCƒhAƒŠ[ƒWƒ‡ƒ“AƒZƒŒƒNƒVƒ‡ƒ“)
-	‚ğw’è‚µ‚ÄƒvƒŒƒrƒ…[
+	* rabbit-preview-*: ç¯„å›² (ç¾åœ¨ã®ã‚¹ãƒ©ã‚¤ãƒ‰ã€ãƒªãƒ¼ã‚¸ãƒ§ãƒ³ã€ã‚»ãƒ¬ã‚¯ã‚·ãƒ§ãƒ³)
+	ã‚’æŒ‡å®šã—ã¦ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼
 
-	* rabbit-copy-current-slide: Œ»İ‚ÌƒXƒ‰ƒCƒh‚ğƒRƒs[‚µ‚Ä‘}“ü
+	* rabbit-copy-current-slide: ç¾åœ¨ã®ã‚¹ãƒ©ã‚¤ãƒ‰ã‚’ã‚³ãƒ”ãƒ¼ã—ã¦æŒ¿å…¥
 
-	* rabbit-copy-slide: ƒXƒ‰ƒCƒhˆê——‚©‚çƒXƒ‰ƒCƒh‚ğ‘I‘ğ‚µ‚ÄƒRƒs[‚µ‚Ä‘}“ü
+	* rabbit-copy-slide: ã‚¹ãƒ©ã‚¤ãƒ‰ä¸€è¦§ã‹ã‚‰ã‚¹ãƒ©ã‚¤ãƒ‰ã‚’é¸æŠã—ã¦ã‚³ãƒ”ãƒ¼ã—ã¦æŒ¿å…¥
 
 2004-08-16  MIYAMUKO Katsuyuki
 
-	* rabbit-narrow-to-slide: C-c n ‚ÅŒ»İ‚ÌƒXƒ‰ƒCƒh‚ğ narrowing
+	* rabbit-narrow-to-slide: C-c n ã§ç¾åœ¨ã®ã‚¹ãƒ©ã‚¤ãƒ‰ã‚’ narrowing
 
-	* rabbit-execute-rabbit-argf: ƒoƒbƒtƒ@‚Ìƒtƒ@ƒCƒ‹–¼‚ª‚È‚¢ê‡ rabbit ‚ğ
-	--type argf ‚ÅÀs‚·‚éB
+	* rabbit-execute-rabbit-argf: ãƒãƒƒãƒ•ã‚¡ã®ãƒ•ã‚¡ã‚¤ãƒ«åãŒãªã„å ´åˆ rabbit ã‚’
+	--type argf ã§å®Ÿè¡Œã™ã‚‹ã€‚
 
-	* rabbit-kill-slide: C-M-k ‚ÅŒ»İ‚ÌƒXƒ‰ƒCƒh‚ğ kill ‚·‚éB
+	* rabbit-kill-slide: C-M-k ã§ç¾åœ¨ã®ã‚¹ãƒ©ã‚¤ãƒ‰ã‚’ kill ã™ã‚‹ã€‚
 
-	* rabbit-move-up-slide, rabbit-move-down-slide: C-M-p, C-M-n ‚ÅƒXƒ‰
-	ƒCƒh‚ğã‰º‚ÉˆÚ“®‚·‚éB
+	* rabbit-move-up-slide, rabbit-move-down-slide: C-M-p, C-M-n ã§ã‚¹ãƒ©
+	ã‚¤ãƒ‰ã‚’ä¸Šä¸‹ã«ç§»å‹•ã™ã‚‹ã€‚
 
 2004-08-12  MIYAMUKO Katsuyuki
 
-	* rabbit-mode: rabbit •ÒW—pƒ‚[ƒh‚É‚·‚é‚±‚Æ‚É‚µ‚½B
+	* rabbit-mode: rabbit ç·¨é›†ç”¨ãƒ¢ãƒ¼ãƒ‰ã«ã™ã‚‹ã“ã¨ã«ã—ãŸã€‚
 
-	* rabbit-build-summary-of-functions: list-function ‚ÅƒXƒ‰ƒCƒh‚Ìˆê
-	——‚ª‚Å‚é‚æ‚¤‚É‚µ‚½B
+	* rabbit-build-summary-of-functions: list-function ã§ã‚¹ãƒ©ã‚¤ãƒ‰ã®ä¸€
+	è¦§ãŒã§ã‚‹ã‚ˆã†ã«ã—ãŸã€‚
 
 2004-08-10  MIYAMUKO Katsuyuki
 
-	* rabbit-make-process: Às‚µ‚½ƒRƒ}ƒ“ƒh‚ğ message ‚Å•\¦‚·‚é‚æ‚¤‚É‚µ‚½B
+	* rabbit-make-process: å®Ÿè¡Œã—ãŸã‚³ãƒãƒ³ãƒ‰ã‚’ message ã§è¡¨ç¤ºã™ã‚‹ã‚ˆã†ã«ã—ãŸã€‚
 
-	* rabbit-buffer-encoding: char-encoding-name ‚ª utfxxx ‚ğ•Ô‚µ‚½ê‡A
-	--encoding ‚Íw’è‚µ‚È‚¢‚æ‚¤‚É‚·‚éB
+	* rabbit-buffer-encoding: char-encoding-name ãŒ utfxxx ã‚’è¿”ã—ãŸå ´åˆã€
+	--encoding ã¯æŒ‡å®šã—ãªã„ã‚ˆã†ã«ã™ã‚‹ã€‚
 
 2004-08-09  MIYAMUKO Katsuyuki
 
-	* ‰ŠúƒŠƒŠ[ƒX
+	* åˆæœŸãƒªãƒªãƒ¼ã‚¹
